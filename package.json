@@ -1,0 +1,17 @@
+{
+  "name": "cal-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.6.0",
+    "chrome-remote-interface": "^0.24.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
